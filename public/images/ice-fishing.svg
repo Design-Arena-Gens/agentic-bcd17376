@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#eff6ff"/>
+  <rect x="100" y="170" width="200" height="30" fill="#93c5fd"/>
+  <rect x="180" y="150" width="40" height="40" fill="#e2e8f0" stroke="#94a3b8"/>
+  <line x1="200" y1="30" x2="200" y2="150" stroke="#334155" stroke-width="3"/>
+  <text x="200" y="260" text-anchor="middle" font-family="Arial" font-size="18" fill="#0f172a">Ice Fishing</text>
+</svg>

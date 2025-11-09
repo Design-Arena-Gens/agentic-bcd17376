@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#fff1f2"/>
+  <polygon points="150,220 200,100 250,220" fill="#334155"/>
+  <path d="M200 100 C190 80 210 80 200 60" stroke="#ef4444" stroke-width="6" fill="none"/>
+  <text x="200" y="260" text-anchor="middle" font-family="Arial" font-size="18" fill="#0f172a">Volcano</text>
+</svg>

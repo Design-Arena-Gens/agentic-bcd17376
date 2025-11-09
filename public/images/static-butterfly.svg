@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#fdf2f8"/>
+  <path d="M200 150 C170 120 120 120 100 160 C120 200 170 200 200 170 Z" fill="#f472b6"/>
+  <path d="M200 150 C230 120 280 120 300 160 C280 200 230 200 200 170 Z" fill="#60a5fa"/>
+  <rect x="195" y="130" width="10" height="60" fill="#0f172a"/>
+  <text x="200" y="260" text-anchor="middle" font-family="Arial" font-size="18" fill="#0f172a">Static Butterfly</text>
+</svg>
